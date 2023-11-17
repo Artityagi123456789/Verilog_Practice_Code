@@ -11,5 +11,8 @@ Code7:- Verilog code for $display,$monitor and Strobe:
 
 https://edaplayground.com/x/89mj
 
+Code8: Verilog Code for Equality Oprator
+
+https://edaplayground.com/x/NWMp
 
 
