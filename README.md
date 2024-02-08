@@ -12,4 +12,11 @@ https://edaplayground.com/x/89mj
 Code8: Verilog Code for Equality Oprator
 https://edaplayground.com/x/NWMp
 
+Code10 Equality and Inequality_operator.v
+https://edaplayground.com/x/VRjh
 
+Code11 Case Equality and Inequality_operator.v
+https://edaplayground.com/x/vin5
+
+Code12 reg and wire datatypes.v
+https://edaplayground.com/x/Xh28
